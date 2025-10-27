@@ -64,7 +64,7 @@ The project implements a robust motion-detection pipeline optimized for low-ligh
 
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/sleep-motion-tracker.git
+git clone https://github.com/R0rschach02/sleep-motion-tracker.git
 cd sleep-motion-tracker
 ```
 
